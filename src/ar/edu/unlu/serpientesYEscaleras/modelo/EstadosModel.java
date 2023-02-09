@@ -1,0 +1,14 @@
+package ar.edu.unlu.serpientesYEscaleras.modelo;
+
+public enum EstadosModel {
+	CAMBIO_LISTA_JUGADORES, 
+	 CAMBIO_ESTADO,
+	 CAMBIO_JUGADOR,
+	 DADO_TIRADO, 
+	 MOVIO_LUGAR,
+	 GANASTE_OTRA_TIRADA,
+	 MOSTRAR_GANADOR,
+	 ES_SERPIENTE,
+	 ES_ESCALERA,
+	 PASO_DEL_FIN, 
+}
